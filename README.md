@@ -5,20 +5,20 @@
 
 Root 7 dir 7'den küçük olanlar ağacın sol tarafında büyük olanlar ise sağ tarafında bulunur
     
-    7
+          7
    
-   / \
+        /   \
    
-   5 8
+       5     8
   
-  / \
+      / \
   
-  1 6
+      1 6
  
- / \
+     / \
  
- 0 3
+     0 3
  
- / \
+      / \
  
- 2 4
+      2 4
