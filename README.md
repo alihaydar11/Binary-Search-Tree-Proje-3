@@ -4,6 +4,7 @@
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 Root 7 dir 7'den küçük olanlar ağacın sol tarafında büyük olanlar ise sağ tarafında bulunur
+    
     7
    / \
    5 8
